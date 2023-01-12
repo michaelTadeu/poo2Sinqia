@@ -1,0 +1,15 @@
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\bin\Debug\net6.0\ConsoleApp_Aula1_Exercicio.exe
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\bin\Debug\net6.0\ConsoleApp_Aula1_Exercicio.deps.json
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\bin\Debug\net6.0\ConsoleApp_Aula1_Exercicio.runtimeconfig.json
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\bin\Debug\net6.0\ConsoleApp_Aula1_Exercicio.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\bin\Debug\net6.0\ConsoleApp_Aula1_Exercicio.pdb
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.csproj.AssemblyReference.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.AssemblyInfoInputs.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.AssemblyInfo.cs
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\refint\ConsoleApp_Aula1_Exercicio.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.pdb
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ConsoleApp_Aula1_Exercicio.genruntimeconfig.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp_Aula1\ConsoleApp_Aula1_Exercicio\obj\Debug\net6.0\ref\ConsoleApp_Aula1_Exercicio.dll

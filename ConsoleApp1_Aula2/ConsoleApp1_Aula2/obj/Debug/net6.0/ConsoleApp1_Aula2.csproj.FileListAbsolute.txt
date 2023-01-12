@@ -1,0 +1,15 @@
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\bin\Debug\net6.0\ConsoleApp1_Aula2.exe
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\bin\Debug\net6.0\ConsoleApp1_Aula2.deps.json
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\bin\Debug\net6.0\ConsoleApp1_Aula2.runtimeconfig.json
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\bin\Debug\net6.0\ConsoleApp1_Aula2.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\bin\Debug\net6.0\ConsoleApp1_Aula2.pdb
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.csproj.AssemblyReference.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.AssemblyInfoInputs.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.AssemblyInfo.cs
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\refint\ConsoleApp1_Aula2.dll
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.pdb
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ConsoleApp1_Aula2.genruntimeconfig.cache
+C:\Projetos\C#\Ada\sinqia\ConsoleApp1_Aula2\ConsoleApp1_Aula2\obj\Debug\net6.0\ref\ConsoleApp1_Aula2.dll
