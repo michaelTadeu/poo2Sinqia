@@ -1,0 +1,15 @@
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.csproj.AssemblyReference.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.AssemblyInfoInputs.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.AssemblyInfo.cs
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\bin\Debug\net6.0\ConsoleApp1_Aula7.exe
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\bin\Debug\net6.0\ConsoleApp1_Aula7.deps.json
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\bin\Debug\net6.0\ConsoleApp1_Aula7.runtimeconfig.json
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\bin\Debug\net6.0\ConsoleApp1_Aula7.dll
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\bin\Debug\net6.0\ConsoleApp1_Aula7.pdb
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.dll
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\refint\ConsoleApp1_Aula7.dll
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.pdb
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ConsoleApp1_Aula7.genruntimeconfig.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula7\ConsoleApp1_Aula7\obj\Debug\net6.0\ref\ConsoleApp1_Aula7.dll

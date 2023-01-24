@@ -7,13 +7,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1_Aula6.Models
 {
-    public class EventosFutebol : IEvento
+    public class Eventos : IEvento
     {
-        //public string NomeEvento { get; set; } 
-
         public void DetalhesEvento()
         {
-            Console.WriteLine("Detalhes do Evento de Futebol");
+            Console.WriteLine("Detalhes do Evento Cultural");
         }
     }
 }

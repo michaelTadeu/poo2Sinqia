@@ -14,6 +14,14 @@ namespace ConsoleApp1_Aula6.Models
         //private EventosFutebol _eventosFutebol = null;
 
         private IEvento _eventos = null;
+        LocalizacaoEvento locEvento = new LocalizacaoEvento();
+        public IEvento meuEvento
+        {
+            set
+            {
+                _eventos = value;
+            }
+        }
         //private List<IEvento> _listaEventos = null;
 
         //public Faculdade()
@@ -29,6 +37,11 @@ namespace ConsoleApp1_Aula6.Models
         //    _eventosCulturais = new EventosCulturais();
         //    _eventosFutebol = new EventosFutebol();
         //}
+
+        public Faculdade(int index)
+        {
+            this._eventos = locEvento.LocaEventos(index);
+        }
 
         public Faculdade(IEvento iEvento)
         {
@@ -51,9 +64,18 @@ namespace ConsoleApp1_Aula6.Models
         //    _eventosFutebol.DetalhesEvento();
         //}
 
+        //public void GetEventos()
+        //{
+        //    this._eventos.DetalhesEvento();
+        //}
+        public void GetEventos(IEvento meuEvento)
+        {
+            this._eventos = meuEvento;
+        }
+
         public void GetEventos()
         {
-            this._eventos.DetalhesEvento();
         }
+
     }
 }

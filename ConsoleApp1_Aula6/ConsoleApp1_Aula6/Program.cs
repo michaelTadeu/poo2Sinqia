@@ -54,11 +54,23 @@ namespace ConsoleApp1_Aula6
             Funcionario<Vendedor> listaVendedor = new Funcionario<Vendedor>();
             //Funcionario<Diretor> listaVendedor1 = new Funcionario<Diretor>();
 
+            // Injeção de Dependência por construtor
+            //EventosFutebol eventoF = new EventosFutebol();
+            //eventoF.NomeEvento = "Copa do Brasil";
+            //Faculdade evento = new Faculdade(eventoF);
+            //evento.GetEventos();
 
-            EventosFutebol eventoF = new EventosFutebol();
-            eventoF.NomeEvento = "Copa do Brasil";
-            Faculdade evento = new Faculdade(eventoF);
-            evento.GetEventos();
+            // Injeção de Dependência por propriedade (Campo)
+            //Faculdade faculdadeP = new Faculdade();
+            //faculdadeP.meuEvento = new EventosTech();
+
+            // Injeção de Dependência por método
+            //Faculdade faculdadeM = new Faculdade();
+            //faculdadeM.GetEventos(new EventosCulturais());
+
+            // Injeção de Dependência por Service Locator
+            Faculdade faculdade = new Faculdade(1);
+            faculdade.GetEventos();
 
             Console.ReadKey();
         }
