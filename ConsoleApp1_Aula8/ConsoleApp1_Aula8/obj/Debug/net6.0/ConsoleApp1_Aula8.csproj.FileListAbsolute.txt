@@ -1,0 +1,5 @@
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula8\ConsoleApp1_Aula8\obj\Debug\net6.0\ConsoleApp1_Aula8.csproj.AssemblyReference.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula8\ConsoleApp1_Aula8\obj\Debug\net6.0\ConsoleApp1_Aula8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula8\ConsoleApp1_Aula8\obj\Debug\net6.0\ConsoleApp1_Aula8.AssemblyInfoInputs.cache
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula8\ConsoleApp1_Aula8\obj\Debug\net6.0\ConsoleApp1_Aula8.AssemblyInfo.cs
+C:\Projetos\C#\Ada\sinqia\poo2Sinqia\ConsoleApp1_Aula8\ConsoleApp1_Aula8\obj\Debug\net6.0\ConsoleApp1_Aula8.csproj.CoreCompileInputs.cache
